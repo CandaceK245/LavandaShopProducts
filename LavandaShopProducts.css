@@ -1,0 +1,19 @@
+/*font style of Headings*/
+@font-face {
+    font-family: Bree_Serif;
+    src: url(fonts/BreeSerif-Regular.ttf)
+}
+/*font style for paragraphs*/
+@font-face {
+    font-family: Urbanist;
+    src: url(fonts/Urbanist-VariableFont_wght.ttf);
+}
+/*Shop page styling*/
+h1 {
+    font-family: 'Bree_Serif', 'georgia', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+     font-family: 'Urbanist', 'georgia', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-style: hidden; max-width: 300px;
+     text-align: center;
+}
